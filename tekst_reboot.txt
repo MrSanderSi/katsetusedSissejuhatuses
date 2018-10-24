@@ -1,2 +1,1 @@
-A, B, O on tähestiku esimesed kolm tähte.
-Taun oled?
+A, B, C on tähestiku esimesed kolm tähte.
